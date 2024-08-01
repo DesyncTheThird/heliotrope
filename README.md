@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./icon.png" height="190px" width="190px" style="border-radius:50%;">
+  <img src="https://raw.githubusercontent.com/DesyncTheThird/heliotrope/main/icon.png" height="200px" width="200px">
   <br/>
   Heliotrope Theme
 </h1>
