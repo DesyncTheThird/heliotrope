@@ -1,0 +1,31 @@
+{
+  "name": "heliotrope",
+  "displayName": "Heliotrope",
+  "description": "Pink and purple colour theme.",
+  "version": "0.0.1",
+  "publisher": "Desync",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Heliotrope",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Heliotrope-color-theme.json"
+      },
+      {
+        "label": "Heliotrope Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Heliotrope-color-theme-pink-dark.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.31.1"
+  }
+}
