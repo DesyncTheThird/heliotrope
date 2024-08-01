@@ -15,12 +15,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Heliotrope",
+        "label": "Heliotrope Light",
         "uiTheme": "vs-dark",
         "path": "./themes/Heliotrope-color-theme-light.json"
       },
       {
-        "label": "Heliotrope Dark",
+        "label": "Heliotrope",
         "uiTheme": "vs-dark",
         "path": "./themes/Heliotrope-color-theme.json"
       }
