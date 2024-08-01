@@ -614,6 +614,16 @@
 			"settings": {
 				"foreground": "#C3E88D"
 			}
+		},
+		{
+			"name": "invalid",
+			"scope": [
+			"invalid"
+			],
+			"settings": {
+				"foreground": "#ff5555",
+                "fontStyle": "underline"
+			}
 		}
     ],
 	"colors": {
@@ -637,6 +647,7 @@
         "list.activeSelectionBackground": "#ff5c8d88",
         "list.errorForeground": "#ff5c8d",
         "list.focusBackground": "#ff5c8d88",
+        "list.focusForeground": "#ffffff88",
         "list.highlightForeground": "#f8f8f0",
         "list.hoverBackground": "#ff5c8d55",
         "list.inactiveSelectionBackground": "#ff5c8d55",
@@ -831,6 +842,7 @@
         "quickInput.foreground": "#ffe3f2",
         "quickInputList.focusBackground": "#bf578e",
         "quickInputList.focusForeground": "#ffffff",
+        "quickInputList.focusIconForeground": "#ffffff",
         //"scrollbar.shadow": "#000000",
         //"searchEditor.findMatchBackground": "#ea5c0038",
         //"settings.checkboxBackground": "#1a1215",
@@ -946,7 +958,7 @@
         "button.secondaryBackground": "#e95a85",
         "button.secondaryForeground": "#ffdbea",
         "button.border": "#ffdbea",
-  //        "button.secondaryHoverBackground": "#00ff95",
+        //"button.secondaryHoverBackground": "#00ff95",
         "notifications.background": "#422046",
         "notifications.foreground": "#ffdbea",
         
@@ -964,18 +976,18 @@
   
   
         "editorGroup.dropBackground": "#ffa6fb20",
-        "editorGroupHeader.tabsBackground": "#2a1e2b",
+        "editorGroupHeader.tabsBackground": "#482e4a",
         "editorGroupHeader.tabsBorder": "#00000000",
         "editorGroupHeader.border": "#00000000",
-        "tab.inactiveBackground": "#2a1e2b",
+        "tab.inactiveBackground": "#482e4a",
         "tab.inactiveForeground": "#ffa2ca",
         "tab.activeModifiedBorder": "#ff0000",
   
   
 
 
-        "minimap.findMatchHighlight": "#ffb3de",
-        "minimap.selectionHighlight": "#ff4eb2",
+        "minimap.findMatchHighlight": "#ffb3de7c",
+        "minimap.selectionHighlight": "#ff4eb27c",
         "minimap.background": "#160b13a0",
         "minimapSlider.activeBackground": "#ff00b35d",
           
@@ -986,8 +998,7 @@
         "titleBar.border": "#6e254f",
   
   
-        	"foreground": "#ffcef7",
-  
+        "foreground": "#ffcef7",
   
         
         "inputOption.activeBorder": "#ffc8f0",
@@ -997,24 +1008,24 @@
         "input.foreground": "#ffd3f5",
 
 		
-        "activityBar.background": "#2a1e2b",
+        "activityBar.background": "#482e4a",
         "activityBar.foreground": "#ff5c8d",
 
 		"activityBar.border": "#6e254f",
         "sideBar.border": "#6e254f",
 		"sideBarSectionHeader.border": "#6e254f",
         
-        "sideBar.background": "#2a1e2b",
+        "sideBar.background": "#482e4a",
         "sideBar.foreground": "#8b9cae",
         "sideBarSectionHeader.background": "#4b2c4b",
 
         "editorGutter.addedBackground": "#eeff00",
-        "editorGutter.background": "#372437",
+        "editorGutter.background": "#6b426b",
         "editorGutter.commentRangeForeground": "#c5c5c5",
         "editorGutter.deletedBackground": "#94151b",
         "editorGutter.modifiedBackground": "#0c7d9d",
   
-        "panel.background": "#2a1e2b",
+        "panel.background": "#482e4a",
         "panel.border": "#6e254f",
         "panelTitle.activeBorder": "#ffffff",
         "panelTitle.inactiveForeground": "#ffffff99",
@@ -1023,11 +1034,11 @@
         "editorWidget.border": "#ffdbea",
         "editorWidget.foreground": "#cccccc",
   
-        "tab.activeBackground": "#4b2c4b",
+        "tab.activeBackground": "#6b426b",
         "tab.activeForeground": "#ffdbea",
         "tab.activeBorderTop": "#ff8ee3",
 
-        "editor.background":"#4b2c4b",
+        "editor.background":"#6b426b",
         "editor.foreground":"#47b8db",
 
 
@@ -1044,9 +1055,6 @@
 		"editorBracketHighlight.foreground4": "#98C379",
 		"editorBracketHighlight.foreground5": "#bb80b3",
 		"editorBracketHighlight.foreground6": "#5b7db3",
-  
 		
-
-		
-        },
-  }
+   },
+}

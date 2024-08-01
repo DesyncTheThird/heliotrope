@@ -986,8 +986,8 @@
   
 
 
-        "minimap.findMatchHighlight": "#ffb3de",
-        "minimap.selectionHighlight": "#ff4eb2",
+        "minimap.findMatchHighlight": "#ffb3de7c",
+        "minimap.selectionHighlight": "#ff4eb27c",
         "minimap.background": "#160b13a0",
         "minimapSlider.activeBackground": "#ff00b35d",
           
@@ -996,14 +996,13 @@
         "titleBar.inactiveBackground": "#3d253d",
         "titleBar.inactiveForeground": "#acacac",
         "titleBar.border": "#6e254f",
-  
-  
-        	"foreground": "#ffcef7",
-  
-  
+
         
+        "foreground": "#ffcef7",
+        
+
         "inputOption.activeBorder": "#ffc8f0",
-  
+
         "input.border": "#6e254f",
         "input.background": "#2f1f31",
         "input.foreground": "#ffd3f5",
@@ -1057,7 +1056,5 @@
 		"editorBracketHighlight.foreground5": "#fac863",
 		"editorBracketHighlight.foreground6": "#5b7db3",
 		
-
-		
-        },
-  }
+    },
+}
