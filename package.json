@@ -1,9 +1,10 @@
 {
   "name": "heliotrope",
   "displayName": "Heliotrope",
-  "description": "Pink and purple colour theme.",
+  "description": "A deep purple and pink colour theme.",
   "version": "0.0.1",
   "publisher": "Desync",
+  "repository": "https://github.com/DesyncTheThird/heliotrope",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.70.0"
@@ -16,12 +17,12 @@
       {
         "label": "Heliotrope",
         "uiTheme": "vs-dark",
-        "path": "./themes/Heliotrope-color-theme.json"
+        "path": "./themes/Heliotrope-color-theme-light.json"
       },
       {
         "label": "Heliotrope Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Heliotrope-color-theme-pink-dark.json"
+        "path": "./themes/Heliotrope-color-theme.json"
       }
     ]
   },
