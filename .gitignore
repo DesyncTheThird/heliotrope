@@ -3,3 +3,4 @@ node_modules
 .vscode
 vsc-extension-quickstart.md
 themes/Heliotrope-color-theme.json
+package.txt

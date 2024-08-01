@@ -14,11 +14,6 @@
   ],
   "contributes": {
     "themes": [
-    //   {
-    //     "label": "Heliotrope Light",
-    //     "uiTheme": "vs-dark",
-    //     "path": "./themes/Heliotrope-color-theme-light.json"
-    //   },
       {
         "label": "Heliotrope",
         "uiTheme": "vs-dark",
