@@ -9,7 +9,7 @@
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Heliotrope` by `Desync`.
 3. Click **Install**.
-4. Navigate to File > Preferences > Colour Theme > `Heliotrope`
+4. Press `ctrl`+`k` then `ctrl`+`t`, then select `Heliotrope`.
 
 - [Marketplace](https://marketplace.visualstudio.com/items?itemName=Desync.heliotrope)
 - [Repository](https://github.com/DesyncTheThird/heliotrope)
