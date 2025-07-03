@@ -422,9 +422,9 @@
 		},
 		{
 			"name": "Constant keywords",
-			"scope": "constant.keyword",
+			"scope": "constant.language",
 			"settings": {
-				"foreground": "#89DDFF",
+				"foreground": "#FF9cac",
 				"fontStyle": "italic"
 			}
 		},
